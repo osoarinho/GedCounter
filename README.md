@@ -1,7 +1,7 @@
 # GedCounter - Automated Audit Tool for GED Digitalization
 
 ## Description
-This application automates part of the digitalization audit process for the **GED (Electronic Document Management)** at the **Prefeitura de Angra dos Reis**. It scans selected folders, counts PDF files and pages, and generates an Excel report for verification.
+This application automates part of the digitalization audit process for the **GED (Electronic Document Management)** at the **Prefeitura Municipal de Angra dos Reis**. It scans selected folders, counts PDF files and pages, and generates an Excel report for verification.
 
 Developed by **Lucas Soares dos Santos** (@adevcalledlucas on Instagram), this tool is open-source and free to use, designed to streamline the auditing process with efficiency and accuracy.
 
