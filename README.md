@@ -3,7 +3,7 @@
 ## Description
 This application automates part of the digitalization audit process for the **GED (Electronic Document Management)** at the **Prefeitura Municipal de Angra dos Reis**. It scans selected folders, counts PDF files and pages, and generates an Excel report for verification.
 
-Developed by **Lucas Soares dos Santos** (@adevcalledlucas on Instagram), this tool is open-source and free to use, designed to streamline the auditing process with efficiency and accuracy.
+Developed by **Soarinho (Lucas Soares dos Santos)**, @soarinho-lab on Instagram, this tool is open-source and free to use, designed to streamline the auditing process with efficiency and accuracy.
 
 ## Features
 - 📂 **Folder Selection**: Easily choose a directory to process.
@@ -45,5 +45,5 @@ To create a new `.exe` from the source code:
 This project is **open-source** and free to use. Feel free to contribute, modify, or improve!
 
 ---
-🚀 **Developed with dedication by Lucas Soares dos Santos (@adevcalledlucas on Instagram)**
+🚀 **Developed with dedication by Soarinho (Lucas Soares dos Santos)**, @soarinho-lab on Instagram.**
 
