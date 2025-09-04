@@ -3,7 +3,7 @@
 ## Description
 This application automates part of the digitalization audit process for the **GED (Electronic Document Management)** at the **Prefeitura Municipal de Angra dos Reis**. It scans selected folders, counts PDF files and pages, and generates an Excel report for verification.
 
-This tool is open-source and free to use, designed to streamline the auditing process with efficiency and accuracy.]
+This tool is open-source and free to use, designed to streamline the auditing process with efficiency and accuracy.
 
 🚀 **Developed with dedication by Soarinho (Lucas Soares dos Santos)**, @osoarinho on Instagram.**
 
